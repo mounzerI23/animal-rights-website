@@ -1,0 +1,94 @@
+<div>
+
+<!DOCTYPE html>
+
+ 
+
+<html lang="en">
+
+
+
+
+    <meta charset="UTF-8">
+
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="stylesheet" href="styles.css">
+
+  <link rel="icon" href="https://www.google.ae/imgres?imgurl=https%3A%2F%2F149366112.v2.pressablecdn.com%2Fwp-content%2Fuploads%2F2014%2F02%2F2762320200_e214a98164_b.jpg&imgrefurl=https%3A%2F%2Fwww.onegreenplanet.org%2Fanimalsandnature%2F12-alarming-facts-about-pet-homelessness%2F&tbnid=cf0c_yVIBn5PNM&vet=12ahUKEwi-t5mfhqD3AhVHEmMBHR7KBPUQMyhAegQIARBN..i&docid=BvyiSzQfLiO_iM&w=1600&h=1018&q=dogs%20and%20cats%20abandoned&hl=en-ae&client=safari&ved=2ahUKEwi-t5mfhqD3AhVHEmMBHR7KBPUQMyhAegQIARBN">
+
+ 
+
+    
+
+</head>
+   <title>Better pets</title>
+  <meta charset="UTF-8">
+
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="stylesheet" href="style.css">
+
+  <link rel="icon" href="https://www.google.ae/imgres?imgurl=https%3A%2F%2F149366112.v2.pressablecdn.com%2Fwp-content%2Fuploads%2F2014%2F02%2F2762320200_e214a98164_b.jpg&imgrefurl=https%3A%2F%2Fwww.onegreenplanet.org%2Fanimalsandnature%2F12-alarming-facts-about-pet-homelessness%2F&tbnid=cf0c_yVIBn5PNM&vet=12ahUKEwi-t5mfhqD3AhVHEmMBHR7KBPUQMyhAegQIARBN..i&docid=BvyiSzQfLiO_iM&w=1600&h=1018&q=dogs%20and%20cats%20abandoned&hl=en-ae&client=safari&ved=2ahUKEwi-t5mfhqD3AhVHEmMBHR7KBPUQMyhAegQIARBN">
+<body>
+
+ <center> 
+   <center><br><br><br><br><h1><img src="logo2.png"></h1><br><br></center>
+   <img class="isaac" src="https://www.thesprucepets.com/thmb/cUXKE064uC37OHSeLykWWX4GKRY=/4103x2735/filters:fill(auto,1)/most-adorable-farm-animals-4143364-hero-7aa6c40e849f40ab9a6d0ae58547707a.jpg">
+
+   <center><div class="para">
+
+  <center><h2>About Us</h2></center>
+
+   <p>This site is dedicated to help support the rights and welfare of animals on it there are several bits of data to help raise awareness about animal rights and you can donate to animals that have been abandoned and dont have any food or water if the animal is in an adoption center you can adopt it. </p>
+
+   <a target="blank" href="https://better-pets.w3spaces.com/index1.html"> <button>donate</button></a>
+
+   </div>
+
+   <img class="collage" src="https://c8.alamy.com/comp/HB50PB/collage-with-different-animal-faces-HB50PB.jpg" alt="">
+
+</center>
+
+<h2>Why Animal Rights are important.</h2>
+
+<center><div class="d">
+
+<p>
+
+Every year over 80 billion animals die  but one of the big reasons animals dont have more rights is because human lives depend on animal based practices for example 1 in 5 people depend on production animals for their income and this might continue for many years because 70% additional animal protein will be needed to feed the world by 2050 which is why you should donate to abandoned animals through this website.<br><br>
+
+ <p>
+ There is still hope for animal rights because scintists are working hard to develop artificial meat and dairy the bellow are animal rights videos.
+ </p>
+
+ 
+
+
+
+</div></center>
+
+ <center><div class="d"> <p>There is a shocking number of animal cruelty cases that are reported every day is but thats just the start most cases are never reported. Unlike 
+  crimes against humans, cases of animal abuse are not compiled by state or federal agencies, making it difficult to know how common they are. However, we can use the information that is available to try to understand and prevent cases of abuse.
+ <strong>the sorce of this info is <a target="blank" href="https://www.humanesociety.org/resources/animal-cruelty-facts-and-stats">the human society</a></strong>.</p></div></center>
+
+<center><iframe width="450" height="315" src="https://www.youtube.com/embed/Eson6ZlvEe0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center><br>
+
+<center><iframe width="450" height="315" src="https://www.youtube.com/embed/Fm6yVtI1PH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center><br>
+
+
+
+ <center><h2>Contact us</h2></center> <center><p>mounzer email: issamounzer8@gmail.com</p></center>
+  <center><p>daniel email: danielberenjan@outlook.com</p></center>
+
+  <center><p>isaac email: igoddyngarcia@gmail.com </p>
+  <body>
+  </html>
+
+
+                
+        
